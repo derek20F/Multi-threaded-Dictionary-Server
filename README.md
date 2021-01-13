@@ -3,12 +3,6 @@
 ### Multi-threaded Dictionary Server
 
 ---
-<p align="right">
-Name: Chen-An Fan
-</p><p align="right">Student ID: 1087032
-</p><p align="right">User Name: chenanf</p>
-
-
 #### Introduction
 
 In this assignment, a client-server architecture is used to design and implement a multi-threaded server that allows multiple clients to search, add, or remove a word in the dictionary concurrently. Socket and threading programming are required to be the lowest level of abstraction for network communication and concurrency.
