@@ -1,6 +1,11 @@
 ## COMP90015 Distributed Systems - Assignment 1 
 
-### Multi-threaded Dictionary Server
+## Multi-threaded Dictionary Server
+
+## Summary
+*	Design a multi-threaded dictionary server that allows multiple clients to search, add, or remove a word in the dictionary concurrently by client-server architecture
+*	Adopted socket and threading programming to be the lowest level of abstraction for network communication and concurrency
+
 
 ---
 #### Introduction
